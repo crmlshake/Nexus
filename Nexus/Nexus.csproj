@@ -1,0 +1,162 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icons\BackgroundTest.jpg" />
+    <None Remove="Icons\ContactsIcon.png" />
+    <None Remove="Icons\DefaultPP.png" />
+    <None Remove="Icons\EpicBackgroundAFOS.jpg" />
+    <None Remove="Icons\HelpIcon.png" />
+    <None Remove="Icons\HomeIcon.png" />
+    <None Remove="Icons\LoginImage.jpg" />
+    <None Remove="Icons\LoginText2.png" />
+    <None Remove="Icons\LoginText3.png" />
+    <None Remove="Icons\NewsIcon.png" />
+    <None Remove="Icons\NexusHomeBackground.jpg" />
+    <None Remove="Icons\NexusHomeBackground2.jpg" />
+    <None Remove="Icons\NexusLogin4.jpg" />
+    <None Remove="Icons\NexusLoginBackgroundVorlage1.jpg" />
+    <None Remove="Icons\NexusLoginPasswordIcon.png" />
+    <None Remove="Icons\NexusLoginTestBackground.jpg" />
+    <None Remove="Icons\NexusLoginUsernameIcon.png" />
+    <None Remove="Icons\NexusLogo2.png" />
+    <None Remove="Icons\NexusLogo4.png" />
+    <None Remove="Icons\NexusLogo5.png" />
+    <None Remove="Icons\NexusTest12345.jpg" />
+    <None Remove="Icons\NexusVorlage.jpg" />
+    <None Remove="Icons\NexusVorlage11.jpg" />
+    <None Remove="Icons\NexusVorlage15.jpg" />
+    <None Remove="Icons\NexusVorlage4.jpg" />
+    <None Remove="Icons\NexusVorlage9.jpg" />
+    <None Remove="Icons\NotificationsIcon.png" />
+    <None Remove="Icons\ProfileSettings.png" />
+    <None Remove="Icons\ProjectsIcon.png" />
+    <None Remove="Icons\SettingsIcon.png" />
+    <None Remove="Icons\TestNexus.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Icons\BackgroundTest.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\ContactsIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\DefaultPP.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\EpicBackgroundAFOS.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\HelpIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\HomeIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\LoginImage.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\LoginText2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\LoginText3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NewsIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusHomeBackground.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusHomeBackground2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusLoginBackground.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusLoginBackground2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusLogin4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusLoginBackgroundVorlage1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusLoginPasswordIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusLoginTestBackground.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusLoginUsernameIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusLogo2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusLogo4.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusLogo5.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusTest12345.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusVorlage.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusVorlage11.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusVorlage15.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusVorlage4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NexusVorlage9.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\NotificationsIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\ProfileSettings.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\ProjectsIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\SettingsIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\TestNexus.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.5.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Fonts\" />
+    <Folder Include="GIFs\" />
+    <Folder Include="MVVM\Model\" />
+    <Folder Include="MVVM\ViewModel\" />
+    <Folder Include="Themes\" />
+  </ItemGroup>
+
+</Project>
