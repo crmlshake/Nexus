@@ -9,9 +9,19 @@ Nexus is an AI-enhanced project planning tool designed to support structured col
 ---
 
 
-<img width="1250" height="750" alt="nexus2" src="https://github.com/user-attachments/assets/0ac0eae7-be09-4af1-948b-0ed529a45199" />
+<img width="1250" height="880" alt="NexusNew1" src="https://github.com/user-attachments/assets/28adbf6f-2cf2-419f-b59f-32fe8f0a3496" />
 
 ---
 
 
-<img width="1250" height="880" alt="nexus3" src="https://github.com/user-attachments/assets/612a06a7-0680-4aa6-a1de-d11ae36487dc" />
+<img width="1250" height="880" alt="NexusNew2" src="https://github.com/user-attachments/assets/7b38e14f-97cb-4be3-9ac2-b947bdfa6488" />
+
+--- 
+
+
+<img width="1250" height="880" alt="NexusNew3" src="https://github.com/user-attachments/assets/6fedcfcd-7341-4c1f-a86d-0daacbb553ff" />
+
+--- 
+
+
+<img width="1250" height="880" alt="NexusNew4" src="https://github.com/user-attachments/assets/32c116da-2736-43aa-9d75-d230bc42be13" />
